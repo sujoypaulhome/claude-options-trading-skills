@@ -330,7 +330,7 @@ POLYGON_API_KEY=your_key_here          # Starter tier minimum — see Polygon se
 # TastyTrade
 TASTYTRADE_CLIENT_SECRET=...           # From OAuth2 app credentials
 TASTYTRADE_REFRESH_TOKEN=...           # From OAuth2 Create Grant flow
-TASTYTRADE_ACCOUNT=5WI45384            # Account number
+TASTYTRADE_ACCOUNT=YOUR_ACCOUNT_NUMBER  # Find in TastyTrade → Settings → Account → Account Number (e.g. 5WX12345)
 TASTYTRADE_ENV=production              # "production" or "sandbox"
 
 # Finnhub (IV Crush track only)
