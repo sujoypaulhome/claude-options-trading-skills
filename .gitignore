@@ -1,0 +1,15 @@
+# Credentials — never commit
+.env
+*.env
+
+# Cache / logs
+.momentum_cache/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+
+# Editor
+.vscode/
+.idea/
